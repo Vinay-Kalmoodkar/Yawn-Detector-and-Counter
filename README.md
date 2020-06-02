@@ -15,6 +15,6 @@ Below are some of the main ideas to solve this perticular problem.
 
 4. Calculate the `distance` between the lips and compare the `distance` with some `threshold` value say **25**.
 
-5. If the `distance` is greater than the `threshold`, then yawning is made.
+5. **If the `distance` is greater than the `threshold`, then yawning is made**.
 
-6. Further added a functionality to count the number of times the yawning is made.
+6. Further added a functionality to count the number of times yawning is made.
